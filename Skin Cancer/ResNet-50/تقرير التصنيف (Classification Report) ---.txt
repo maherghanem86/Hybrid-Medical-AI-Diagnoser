@@ -1,0 +1,16 @@
+--- تقرير التصنيف (Classification Report) ---
+              precision    recall  f1-score   support
+
+       akiec       0.45      0.78      0.57        32
+         bcc       0.74      0.75      0.74        52
+         bkl       0.64      0.65      0.65       110
+          df       0.42      0.91      0.57        11
+         mel       0.44      0.76      0.55       112
+          nv       0.98      0.80      0.88       671
+        vasc       0.87      0.93      0.90        14
+
+    accuracy                           0.78      1002
+   macro avg       0.65      0.80      0.70      1002
+weighted avg       0.84      0.78      0.80      1002
+
+Multi-Class ROC-AUC Score: 0.9659
