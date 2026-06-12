@@ -1,0 +1,13 @@
+جاري تقييم نموذج ResNet-50 على بيانات الاختبار...
+
+--- تقرير التصنيف (Classification Report) ---
+               precision    recall  f1-score   support
+
+   Normal (0)       0.99      0.67      0.80       234
+Pneumonia (1)       0.83      0.99      0.91       390
+
+     accuracy                           0.87       624
+    macro avg       0.91      0.83      0.85       624
+ weighted avg       0.89      0.87      0.87       624
+
+ROC-AUC Score: 0.9678

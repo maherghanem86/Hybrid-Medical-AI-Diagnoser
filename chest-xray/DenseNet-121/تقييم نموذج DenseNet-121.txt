@@ -1,0 +1,13 @@
+جاري تقييم نموذج DenseNet-121 على بيانات الاختبار...
+
+--- تقرير التصنيف (Classification Report) ---
+               precision    recall  f1-score   support
+
+   Normal (0)       0.99      0.62      0.76       234
+Pneumonia (1)       0.81      1.00      0.90       390
+
+     accuracy                           0.85       624
+    macro avg       0.90      0.81      0.83       624
+ weighted avg       0.88      0.85      0.84       624
+
+ROC-AUC Score: 0.9631

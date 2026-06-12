@@ -1,0 +1,13 @@
+جاري تقييم النظام باستخدام التجميع الثابت (Average Ensembling) للمقارنة...
+
+--- تقرير تصنيف التجميع الثابت (Static Average Ensemble) - Chest X-Ray ---
+              precision    recall  f1-score   support
+
+      Normal       0.99      0.66      0.79       234
+   Pneumonia       0.83      1.00      0.91       390
+
+    accuracy                           0.87       624
+   macro avg       0.91      0.83      0.85       624
+weighted avg       0.89      0.87      0.86       624
+
+Static Ensemble ROC-AUC Score: 0.9726
